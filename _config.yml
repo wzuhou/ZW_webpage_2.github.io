@@ -21,11 +21,11 @@ title                    : "Zhou Wu (吴舟)"
 title_separator          : "-"
 subtitle                 : "Research Fellow, the Roslin institute, UK" # site tagline that appears below site title in masthead
 name                     : "Zhou Wu"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Personal webpage of Z Wu."
+url                      : https://www.ed.ac.uk/profile/zhouwu-researchfellow # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : #"/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/docs/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
